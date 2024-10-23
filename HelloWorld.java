@@ -2,6 +2,7 @@ Public class HelloWorld{
   public static void main(String[] args){
     print();
     printSchool();
+    System.out.println("--end--");
   }
 
   static void print(){
